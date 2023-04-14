@@ -1,0 +1,28 @@
+#tweets {   
+    min-width: 650px;
+}
+
+#contain {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    max-width: 650px;
+    padding-left: 30px;
+}
+
+#profile {
+    max-width: 200px;
+}
+
+#text {
+    font-size: 12px;
+    max-height: 6px;
+    max-width: 400px;
+}
+
+#sub {
+    max-width: 100px;
+    background-color: #00acee;
+    color: white;
+    height: 30px;
+}
