@@ -1,0 +1,50 @@
+#container {
+    border: 2px solid #1da1f2;
+    max-width: 800px;
+}
+
+#text {
+    font-size: 36px;
+    padding: 15px;
+    word-wrap: break-word;
+}
+
+#profBar {
+    background-color: #00acee;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+}
+
+#photo {
+    max-width: 50px; 
+    border-radius: 50%;
+    margin-top: 10px;
+    padding-left: 10px;
+    margin-bottom: 10px; 
+}
+
+#profile {
+    color: black; 
+    margin-top: 28px; 
+    margin-left: 10px; 
+    font-size: 18px;
+}
+
+#bottomBar {
+    display: flex; 
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: grey;
+    color: white; 
+    height: 50px;
+    font-size: 20px;
+    
+}
+
+#date {
+    color: white; 
+    font-size: 18px;
+    padding-left: 20px;
+}
+
